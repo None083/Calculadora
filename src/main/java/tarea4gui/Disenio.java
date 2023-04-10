@@ -49,7 +49,7 @@ public class Disenio extends javax.swing.JPanel {
         jLabel3 = new javax.swing.JLabel();
 
         setBackground(new java.awt.Color(51, 51, 51));
-        setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.pink, java.awt.Color.pink, java.awt.Color.darkGray, java.awt.Color.darkGray));
+        setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, new java.awt.Color(27, 27, 27), new java.awt.Color(27, 27, 27), new java.awt.Color(27, 27, 27), new java.awt.Color(27, 27, 27)));
 
         jButton1.setBackground(new java.awt.Color(163, 211, 91));
         jButton1.setFont(new java.awt.Font("Arial Narrow", 1, 20)); // NOI18N

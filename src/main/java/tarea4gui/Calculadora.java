@@ -13,20 +13,21 @@ import javax.swing.JFrame;
 public class Calculadora {
 
     public static void main(String[] args) {
-        
+
         JFrame ventanaPrincipal = new JFrame("Calculadora");
 
-        
         ventanaPrincipal.setLocationRelativeTo(null);
 
         ventanaPrincipal.add(new Disenio());
-        
+
         ventanaPrincipal.pack();
-        
+
         ventanaPrincipal.setVisible(true);
 
         ventanaPrincipal.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
+        ventanaPrincipal.setResizable(false);
+
     }
-    
+
 }

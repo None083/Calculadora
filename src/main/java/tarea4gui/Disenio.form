@@ -8,10 +8,10 @@
     <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
       <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
         <BevelBorder>
-          <Color PropertyName="highlightOuter" blue="af" green="af" id="pink" palette="1" red="ff" type="palette"/>
-          <Color PropertyName="highlightInner" blue="af" green="af" id="pink" palette="1" red="ff" type="palette"/>
-          <Color PropertyName="shadowOuter" blue="40" green="40" id="darkGray" palette="1" red="40" type="palette"/>
-          <Color PropertyName="shadowInner" blue="40" green="40" id="darkGray" palette="1" red="40" type="palette"/>
+          <Color PropertyName="highlightOuter" blue="1b" green="1b" red="1b" type="rgb"/>
+          <Color PropertyName="highlightInner" blue="1b" green="1b" red="1b" type="rgb"/>
+          <Color PropertyName="shadowOuter" blue="1b" green="1b" red="1b" type="rgb"/>
+          <Color PropertyName="shadowInner" blue="1b" green="1b" red="1b" type="rgb"/>
         </BevelBorder>
       </Border>
     </Property>
